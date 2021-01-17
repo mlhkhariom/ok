@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+Speedo Test - Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/mlhkinfotech/mlhk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+MLHK infotech ("developer") built the OrBattery app as an Ad Supported app. This SERVICE ("app") is provided by at no cost and is intended for use as is:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+TERMS AND CONDITIONS
 
-### Markdown
+This privacy policy is used to inform you regarding policies with the collection, use, and disclosure of Personal Information if anyone decided to use this Service.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Overview
 
-```markdown
-Syntax highlighted code block
+The app uses advertising to make revenue. The app uses third party libraries for advertising which may collect and share personal information with third parties.
 
-# Header 1
-## Header 2
-### Header 3
+Links to privacy policies of third party service providers used in the app:
 
-- Bulleted
-- List
+GOOGLE PLAY SERVICES : https://policies.google.com/privacy
 
-1. Numbered
-2. List
+ADMOB : https://support.google.com/admob/answer/6128543
 
-**Bold** and _Italic_ and `Code` text
+2. Sharing Your Information
 
-[Link](url) and ![Image](src)
-```
+The developer will share personal information with third parties only in the ways that are described in this privacy statement.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Your personal information may be disclosed:
 
-### Jekyll Themes
+As required by law, such as to comply with a subpoena, or similar legal process.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mlhkinfotech/mlhk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+To any other third party with your prior consent to do so.
 
-### Support or Contact
+3. What information are collected and why
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+AdMob
+
+AdMob, is Google's mobile app advertising platform designed specifically for app developers. In order to understand Google's use of Data, consult Google's partner policy.
+
+Retention:
+
+Google anonymizes the log data by removing part of the IP address (after 9 months) and cookie information (after 18 months)
+
+Online resources:
+
+PRIVACY POLICY : https://policies.google.com/technologies/ads
+
+OPT OUT : https://adssettings.google.com/authenticated
+
+SERVICE INFORMATION : https://privacy.google.com/businesses/adsservices/
+
+PARTNER POLICY : https://policies.google.com/technologies/partner-sites
+
+AD TECHNOLOGY PROVIDERS : https://support.google.com/admob/answer/9012903/
+
+4. Security
+
+I am striving to use commercially acceptable means of protecting your Personal Information. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+5. Social content
+
+The social buttons in the application serve only as a static link to pages / services operated by the developer there and therefore do not represent a direct involvement of the respective content providers.
+
+6. Children’s Privacy
+
+These Services do not address anyone under the age of 16. I do not knowingly collect personally identifiable information from children under 16.
+
+7. Distribution
+
+The only official channel for distribution of this app are:
+
+GOOGLE PLAY STORE : https://play.google.com/store/apps/details?id=com.mlhkinfotech.speedotest
+
+8. Changes to This Privacy Policy
+
+This policy may be updated from time to time.
+
+Contact me
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+
+MLHK infotech : mlhkinfotech@gmail.com
